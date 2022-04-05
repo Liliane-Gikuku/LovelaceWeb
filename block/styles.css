@@ -1,0 +1,23 @@
+span{
+    border:solid 2px rgb(111, 111,111);
+
+}
+    p{
+        border: solid 4px rgb(164, 219, 189);
+        padding:20px;
+    }
+ form{
+     border: solid 2px rgb(170, 115, 115);
+     padding:20px;
+ }
+ label{
+     border: solid 3px rgb(151, 151, 160);
+     margin: 2%;
+
+ }
+ .header{
+     color:rgb(10, 111, 200);
+ }
+ #header{
+     color:blueviolet;
+ }
